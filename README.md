@@ -14,10 +14,11 @@
 ---
 
 ### 🔭 Projects I'm Working On  
-- 🏫 **School Management System (Duty Management Module)** – Duty allocation, compensation tracking, and geolocation features.  
+- 🏫 **School Management System (Duty Management Module)** – Duty allocation, compensation tracking, and geolocation features.
+- - 📝 **Leave Request Management System** – Employee leave request handling with authentication & approval workflows.  
 - 🤖 **M.A.R.V.I.S (Maroof's Ai-Reactive Virtual Intelligence System)** – A desktop AI assistant with voice commands, Hinglish support, and smart features.  
 - 🚤 **Reflect Boat** – Smart AI-based reflection & productivity assistant.  
-- 📝 **Leave Request Management System** – Employee leave request handling with authentication & approval workflows.  
+
 
 ---
 
@@ -40,7 +41,7 @@
 ### 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/maroofuddin846/)  
 - 📧 Email: **maroofuddin846@gmail.com**  
-- 📷 [Instagram](https://www.instagram.com/your-insta-username)  
+- 📷 [Instagram](https://www.instagram.com/_iam.shaikh_/profilecard/?igsh=Y3pkc2lkMWRvd2F4)  
 
 ---
 
