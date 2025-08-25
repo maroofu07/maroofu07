@@ -53,11 +53,6 @@ Currently working as a Java Backend Developer Intern at Neural Bridge AI, where 
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=maroofu07&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroofuddin846/) 
