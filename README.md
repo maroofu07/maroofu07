@@ -52,10 +52,12 @@ Currently working as a Java Backend Developer Intern at Neural Bridge AI, where 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroofuddin846/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://my-portfolio-ten-liart-77.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_iam.shaikh_/profilecard/?igsh=Y3pkc2lkMWRvd2F4)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroofuddin846/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://my-portfolio-ten-liart-77.vercel.app/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_iam.shaikh_/profilecard/?igsh=Y3pkc2lkMWRvd2F4) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maroofuddin846@gmail.com)  
+
 
 ---
 
