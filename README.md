@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=36&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Maroof+Uddin;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=36&duration=2000&pause=800&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi,+I%27m+Maroof+Uddin)](https://git.io/typing-svg)
+
 
 
 
