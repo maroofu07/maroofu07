@@ -1,6 +1,5 @@
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <h1>👋 Hi, I'm Maroof Uddin</h1>
-</marquee>
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=36&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Maroof+Uddin;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL)](https://git.io/typing-svg)
+
 
 
 🚀 **Java Backend Developer | Spring Boot | AI Enthusiast**  
