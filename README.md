@@ -5,6 +5,8 @@
 ---
 
 ## 💫 About Me  
+I’m a Java Backend Developer with hands-on experience in building scalable, secure, and efficient applications using Spring Boot.
+Currently working as a Java Backend Developer Intern at Neural Bridge AI, where I contribute to backend systems and AI-powered solutions.
 - 💼 Currently working as a **Java Backend Developer Intern** at **Neural Bridge AI**  
 - 🔧 Skilled in **Spring Boot, REST APIs, MySQL, JPA, Hibernate**  
 - 🌱 Learning **Java Full-Stack Development** to grow as a complete developer  
@@ -48,6 +50,7 @@
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroofuddin846/)  
+[![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://my-portfolio-ten-liart-77.vercel.app/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_iam.shaikh_/profilecard/?igsh=Y3pkc2lkMWRvd2F4)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maroofuddin846@gmail.com)  
 
